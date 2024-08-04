@@ -1,0 +1,41 @@
+{
+    "actuators": {
+        "curtain" : 0,
+        "door": {
+            "balcony" : 0,
+            "frontDoor" : 0,
+            "bedRoom1" : 0,
+            "bedRoom2" : 0,
+            "garage" : 0
+        },
+        "fan" :{
+            "bedRoom1" : 0,
+            "bedRoom2" : 0,
+            "kitchen" : 0
+        },
+        "window" : 0
+    },
+    "light" : {
+        "balcony" : 0,
+        "bedRoom1" : 0,
+        "bedRoom2" : 0,
+        "firstFloor" : 0,
+        "garage" : 0,
+        "kitchen" : 0,
+        "livingRoom" : 0,
+        "garageFront": 0,
+        "frontDoor" : 0
+    },
+    "mode": -1,
+    "sensor": {
+        "dht" : {
+            "temp" : "",
+            "hum" : ""
+        },
+        "flame" : 0,
+        "gas" : 0,
+        "rain" : 0,
+        "car1" : 0,
+        "car2" : 0
+    }
+}
